@@ -1,4 +1,4 @@
-## Assignment
+## Assignment (React & TypeScript)
 
 Create a paginated Table utilizing [Ant Design Table](https://ant.design/components/table#components-table-demo-ajax), fetching `comments` data from [this](https://jsonplaceholder.typicode.com/) API resource.
 
