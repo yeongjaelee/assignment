@@ -26,3 +26,5 @@ Below are the assessment criteria
 2. Data should only be fetched on demand and not preloaded
 3. Clicking on an entry in the table should display the comment's details in a modal. A template Modal class is provided. Aesthetics are not important.
 4. Implement filter/search functionality on the `email` column via a textbox search. Refer to the API documentation above for fetching filtered results.
+
+Fork this project and perform a pull request within the designated timeframe. Best of luck!
